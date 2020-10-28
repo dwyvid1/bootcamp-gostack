@@ -16,7 +16,7 @@ app.use(express.json())
  */
 
  /**
-  * TIpos de parâmetros
+  * TIpos de parâmetros-
   * 
   * Query Params: Filtros e paginação
   * Route Params: Identificar recursos (Atualizar/Deletar)
@@ -26,7 +26,7 @@ app.use(express.json())
  /**
   * Middleware:
   * 
-  * Interceptador de requisições de pode interromper totalmente a requisição ou alterar dados da requisição
+  * Interceptador de requisições que pode interromper totalmente a requisição ou alterar dados da requisição
   */
 
 const projects = [] 
