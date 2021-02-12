@@ -21,7 +21,7 @@ The GoStack is a Bootcamp offered by the company Rockeseat, aimed at people who 
 # Level 02
 #### First project with Node.JS:
 * Challenge - Node.JS fundamentals.
-* Link: coming soon.
+* Link: https://github.com/dwyvid1/gostack-challenge05-first-nodejs-project
 #### Starting app back-end:
 * CHallenge - Database upload.
 * Link: coming soon.
